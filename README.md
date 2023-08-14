@@ -10,7 +10,6 @@
 - :speech_balloon: &nbsp;Eu curto escrever sobre **JavaScript**, **CSS**, **Infraestrutura** e mais.
 - :mailbox: &nbsp;Pergunte-me sobre qualquer coisa, ficarei feliz em **ajudar**
 - :computer: &nbsp;Siga-me no Linkedin [LinkedIn](https://www.linkedin.com/in/valdeirpsr/)
-- 📫 Mande-me um e-mail **contact@valdeir.dev**
 - :bird: &nbsp;Siga-me no [Twitter](https://twitter.com/Barfi_31)
 
 
@@ -31,7 +30,21 @@ Vamos fazer isso juntos!
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/110870608982301391)](https://mastodon.social/@valdeir)
 
 &nbsp;
+
+---------------
+
 &nbsp;
+
+### 📖 Minhas últimas publicações
+
+- [Criando transições com API ViewTransition](https://dev.to/valdeirpsr/criando-transicoes-com-api-viewtransition-4afp)
+- [Série Nginx 6#: Controlando acesso](https://dev.to/valdeirpsr/serie-nginx-6-controlando-acesso-47bd)
+- [Série Nginx #2: Compilando o Nginx](https://dev.to/valdeirpsr/serie-nginx-2-compilando-o-nginx-3f9o)
+
+&nbsp;
+
+---------------
+
 &nbsp;
 
 ### ✍️ Minhas Skills
@@ -48,7 +61,9 @@ Vamos fazer isso juntos!
 ![Nginx](https://img.shields.io/badge/Nginx-626CD9?style=for-the-badge&logo=nginx&logoColor=white)
 
 &nbsp;
-&nbsp;
+
+---------------
+
 &nbsp;
 
 ### :screwdriver: Frameworks / Ferramentas
@@ -68,7 +83,9 @@ Vamos fazer isso juntos!
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 &nbsp;
-&nbsp;
+
+---------------
+
 &nbsp;
 
 ### Infra
@@ -79,7 +96,9 @@ Vamos fazer isso juntos!
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
 
 &nbsp;
-&nbsp;
+
+---------------
+
 &nbsp;
 
 ### :chart_with_upwards_trend: GitHub Stats
