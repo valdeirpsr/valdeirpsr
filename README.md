@@ -37,6 +37,7 @@ Vamos fazer isso juntos!
 
 ### 📖 Minhas últimas publicações
 
+- [Por que os arquivos são recuperados de SSDs, mesmo após a exclusão?](https://dev.to/valdeirpsr/por-que-os-arquivos-sao-recuperados-de-ssds-mesmo-apos-a-exclusao-383m)
 - [Criando transições com API ViewTransition](https://dev.to/valdeirpsr/criando-transicoes-com-api-viewtransition-4afp)
 - [Série Nginx 6#: Controlando acesso](https://dev.to/valdeirpsr/serie-nginx-6-controlando-acesso-47bd)
 - [Série Nginx #2: Compilando o Nginx](https://dev.to/valdeirpsr/serie-nginx-2-compilando-o-nginx-3f9o)
